@@ -86,7 +86,6 @@ module.exports = [
           },
         ],
       },
-
       {
         title: 'Send data to Promscale',
         href: 'send-data',
@@ -121,7 +120,14 @@ module.exports = [
         tags: ['promscale', 'visualization', 'analytics', 'grafana', 'prometheus'],
         keywords: ['Promscale', 'analytics', 'Grafana'],
         excerpt: 'Learn about data visualization tools you can use with Promscale'
-      }
+      },
+      {
+        title: 'Troubleshooting Promscale',
+        href: 'troubleshooting',
+        tags: ['promscale', 'learn', 'troubleshooting', 'prometheus'],
+        keywords: ['Promscale', 'troubleshooting'],
+        excerpt: 'Troubleshooting Promscale'
+      },
     ]
   }
 ]
